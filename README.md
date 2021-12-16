@@ -1,4 +1,4 @@
-# Permission manager
+# Permission manager  Please visit https://rbac.dev/
 
 ![flow](./docs/assets/flow.gif)
 
